@@ -39,32 +39,3 @@ src="https://img.shields.io/twitter/follow/sitiabdulaziz1?logo=twitter&style=for
 <a href="http://www.github.com/sitiabdulaziz11"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sitiabdulaziz11&bg_color=000000&color=22c55e&line=0891b2&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/sitiabdulaziz11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitiabdulaziz11&langs_count=10&title_color=000000&text_color=22c55e&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-import requests
-import matplotlib.pyplot as plt
-
-# Replace with your repository's details
-owner = "your_username"
-repo = "your_repository"
-token = "your_access_token"
-
-headers = {
-    'Authorization': f'token {token}'
-}
-
-url = f'https://api.github.com/repos/{owner}/{repo}/traffic/views'
-
-response = requests.get(url, headers=headers)
-data = response.json()
-
-# Extracting data (for example, views per day)
-views = [day['count'] for day in data['views']]
-
-# Generating X-axis for days
-days = range(1, len(views) + 1)
-
-# Plotting
-plt.plot(days, views)
-plt.xlabel('Days')
-plt.ylabel('Views')
-plt.title('Repository Views Over Time')
-plt.show()
