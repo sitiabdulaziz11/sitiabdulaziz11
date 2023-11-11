@@ -6,9 +6,7 @@ I'm software engineering student @Alx and graduated electrical and computer engi
 
 I love programming and coding so much!!
 
-* 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [sitiabdulaziz462@gmail.com](mailto:sitiabdulaziz462@gmail.com)
-* 🧠  I'm learning Alx-africa
 * 🤝  I'm open to collaborating on any running project
 * ⚡  I'm serious person
 
@@ -35,7 +33,7 @@ src="https://img.shields.io/twitter/follow/sitiabdulaziz1?logo=twitter&style=for
 
 <a href="http://www.github.com/sitiabdulaziz11"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sitiabdulaziz11&bg_color=000000&color=22c55e&line=0891b2&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sitiabdulaziz11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitiabdulaziz11&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>user=sitiabdulaziz11&stroke=22c55e&background=000000&ring=000000&fire=000000&currStreakNum=22c55e&currStreakLabel=000000&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<a href="https://github.com/sitiabdulaziz11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitiabdulaziz11&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></a>user=sitiabdulaziz11&stroke=22c55e&background=000000&ring=000000&fire=000000&currStreakNum=22c55e&currStreakLabel=000000&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 <a href="http://www.github.com/sitiabdulaziz11"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sitiabdulaziz11&bg_color=000000&color=22c55e&line=0891b2&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
