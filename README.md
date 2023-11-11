@@ -7,6 +7,7 @@ I'm software engineering student @Alx and graduated electrical and computer engi
 I love programming and coding so much!!
 
 * ✉️  You can contact me at [sitiabdulaziz462@gmail.com](mailto:sitiabdulaziz462@gmail.com)
+* 🧠  I'm learning C, python, Html, CSS
 * 🤝  I'm open to collaborating on any running project
 * ⚡  I'm serious person
 
