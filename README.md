@@ -2,7 +2,7 @@ Aselamu Aleycum World! ![](https://user-images.githubusercontent.com/18350557/17
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siti Abdulaziz
 ======================================================================================================================================
 
-I'm software engineering student @Alx and graduated electrical and computer engineer.
+I'm software engineer graduated from Alx_africa Holberton and graduated electrical and computer engineer.
 -------------------------------------------------------------------------------------
 
 I love programming and coding so much!!
