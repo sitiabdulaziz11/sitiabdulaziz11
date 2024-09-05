@@ -1,9 +1,9 @@
-Aselamu Aleycum World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Aselamu Aleycum World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Siti Abdulaziz
 ======================================================================================================================================
-#### I am a Full-Stack Software Engineer specializing in backend development. I graduated from ALX Africa (Holberton School).
-#### And hold a BSc degree in Electrical and Computer Engineering.
+### I am a Full-Stack Software Engineer specializing in backend development. I graduated from ALX Africa (Holberton School).
+### And also hold a BSc degree in Electrical and Computer Engineering.
 
 I love programming and coding so much!!!
 * ✉️  You can contact me at [sitiabdulaziz462@gmail.com](mailto:sitiabdulaziz462@gmail.com)
