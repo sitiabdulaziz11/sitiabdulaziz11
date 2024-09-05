@@ -7,9 +7,9 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ---
 I love programming and coding so much!!!
 * ✉️  You can contact me at [sitiabdulaziz462@gmail.com](mailto:sitiabdulaziz462@gmail.com)
-* 🧠  I'm learning C, python, Html, CSS
-* 🤝  I'm open to collaborating on any running project
-* ⚡  I'm serious person
+* 🧠   I have experience with C, Python, HTML, CSS, flask, React, mysql and more.
+* 🤝  I’m open to collaborating on any ongoing projects.
+* ⚡  I’m a determined person with grit—I never give up!
 
 <a href="https://www.github.com/sitiabdulaziz11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sitiabdulaziz11?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/sitiabdulaziz1" target="_blank" rel="noreferrer"><img
