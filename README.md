@@ -5,6 +5,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ### I am a Full-Stack Software Engineer specialized in backend development. I graduated from ALX Africa (Holberton School).
 ### And also hold a BSc degree in Electrical and Computer Engineering.
 ======================================================================================================================================
+
 I love programming and coding so much!!!
 * ✉️  You can contact me at [sitiabdulaziz462@gmail.com](mailto:sitiabdulaziz462@gmail.com)
 * 🧠  I'm learning C, python, Html, CSS
