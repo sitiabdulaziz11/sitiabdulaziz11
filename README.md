@@ -1,10 +1,9 @@
 Aselamu Aleycum World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Siti Abdulaziz
+My Name Is Siti Abdulaziz
 ======================================================================================================================================
+I'm a software engineer who graduated from ALX Africa (Holberton) with a specialization in Backend Development. I also hold a BSc degree in Electrical and Computer Engineering.
 
-I'm software engineer graduated from Alx_africa(Holberton) and graduated electrical and computer engineer.
-specialized on Backend 
 -------------------------------------------------------------------------------------
 
 I love programming and coding so much!!!
